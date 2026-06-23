@@ -1,48 +1,54 @@
-<h1 align="center">Hi, I'm Sophia!</h1>
+<h1 align="center">Hi, I'm Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="wave" /></h1>
 
 <p align="center">
-  Software engineer and Duke Computer Science student building useful AI systems, thoughtful developer tools, and data-driven products.
+  <b>Software Engineer</b> · <b>AI Systems Builder</b> · <b>Duke Computer Science</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sophial25">LinkedIn</a>
-  ·
-  <a href="mailto:lee.c.sophia@gmail.com">Email</a>
+  I build dependable AI systems, thoughtful developer tools, and data products that make complicated work feel simpler.
 </p>
 
-## What I Build
+<p align="center">
+  <a href="https://www.linkedin.com/in/sophial25"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lee.c.sophia@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I like working where systems, people, and good product judgment meet. Lately, that means building AI agent evaluation workflows, full-stack platforms, and data pipelines that turn messy information into something people can actually use.
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-MetLife%20Software%20Engineering-102a43?style=flat-square" alt="Currently at MetLife" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Evaluation-7c3aed?style=flat-square" alt="Focus: AI Agents and Evaluation" />
+</p>
 
-```text
-AI agents + evaluation      Full-stack product engineering      Data and analytics systems
-```
+## About Me
 
-## Right Now
+I enjoy the space where systems, people, and good product judgment meet. Right now, I am building AI agent evaluation and agent-to-agent workflows at **MetLife**, with a particular interest in making AI measurable, reliable, and genuinely useful in everyday work.
 
-- Software Engineer Intern at **MetLife**, building agent evaluation frameworks and agent-to-agent workflows.
-- Studying **Computer Science at Duke University** (Class of 2028).
-- Interested in reliable AI systems: how we evaluate them, measure them, and make them useful in real workflows.
+| 🧠 I care about | 🛠️ I work with | ✨ I bring |
+| :--- | :--- | :--- |
+| AI evaluation, developer tools, data systems | Python, Java, TypeScript, SQL, React, Spring Boot | Technical depth, product empathy, and a bias toward shipping |
 
-## Selected Work
+## Featured Work
 
-**Emerge AI** · Interview simulation platform
+### 🎙️ Emerge AI
+**AI interview simulation platform** · *3rd Overall, The Cube LLC 2025 Buildathon*
 
-Built an end-to-end AI interview coach with real-time voice interaction, transcript analysis, scoring, and personalized feedback. It supported 200+ mock interviews, reduced manual review by 70%, and placed **3rd overall** at The Cube LLC 2025 Buildathon.
+Built an end-to-end AI interview coach with real-time voice interaction, transcript analysis, scoring, and personalized feedback. Supported **200+ mock interviews**, reduced manual review by **70%**, and increased engagement by **35%**.
 
-**AI Agent Evaluation Workflows** · MetLife
+### 🧪 AI Agent Evaluation Workflows
+**MetLife**
 
 Developing evaluation and benchmarking workflows using Python, LLM APIs, and SQL data pipelines to improve experiment traceability, reporting, and model assessment across teams.
 
-**Data Integration Platform** · MIT Mantis AI
+### 📊 Data Integration Platform
+**MIT Mantis AI**
 
-Built a Python, React, and Node.js platform that processed 2M+ records into real-time analytics dashboards, along with AI-guided interfaces that improved engagement by 25%.
+Built a Python, React, and Node.js platform that processed **2M+ records** into real-time analytics dashboards, plus AI-guided interfaces that improved engagement by **25%**.
 
-**Biomedical ML Pipelines** · MIT BWSI
+### 🩺 Biomedical ML Pipelines
+**MIT BWSI**
 
 Developed Python and TensorFlow pipelines for training and evaluating healthcare analytics models across five ML subprojects.
 
-## Toolbox
+## My Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -55,10 +61,12 @@ Developed Python and TensorFlow pipelines for training and evaluating healthcare
   <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## A Few Things I Care About
+## Things I Care About
 
 - Making AI feel less like a demo and more like dependable infrastructure.
 - Turning ambiguous problems into clear, shippable systems.
 - Building products with enough technical depth to be trusted and enough empathy to be used.
 
-<p align="center"><i>Always happy to connect about AI engineering, developer tools, and building things that make work a little better.</i></p>
+<p align="center">
+  <i>Building technology that earns trust, solves real problems, and feels good to use.</i> ✦
+</p>
