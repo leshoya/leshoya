@@ -26,28 +26,6 @@ I enjoy the space where systems, people, and good product judgment meet. Right n
 | :--- | :--- | :--- |
 | AI evaluation, developer tools, data systems | Python, Java, TypeScript, SQL, React, Spring Boot | Technical depth, product empathy, and a bias toward shipping |
 
-## Featured Work
-
-### 🎙️ Emerge AI
-**AI interview simulation platform** · *3rd Overall, The Cube LLC 2025 Buildathon*
-
-Built an end-to-end AI interview coach with real-time voice interaction, transcript analysis, scoring, and personalized feedback. Supported **200+ mock interviews**, reduced manual review by **70%**, and increased engagement by **35%**.
-
-### 🧪 AI Agent Evaluation Workflows
-**MetLife**
-
-Developing evaluation and benchmarking workflows using Python, LLM APIs, and SQL data pipelines to improve experiment traceability, reporting, and model assessment across teams.
-
-### 📊 Data Integration Platform
-**MIT Mantis AI**
-
-Built a Python, React, and Node.js platform that processed **2M+ records** into real-time analytics dashboards, plus AI-guided interfaces that improved engagement by **25%**.
-
-### 🩺 Biomedical ML Pipelines
-**MIT BWSI**
-
-Developed Python and TensorFlow pipelines for training and evaluating healthcare analytics models across five ML subprojects.
-
 ## My Toolbox
 
 <p>
