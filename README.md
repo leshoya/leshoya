@@ -41,9 +41,9 @@ I enjoy the space where systems, people, and good product judgment meet. Right n
 
 ## Things I Care About
 
-- Making AI feel less like a demo and more like dependable infrastructure.
-- Turning ambiguous problems into clear, shippable systems.
-- Building products with enough technical depth to be trusted and enough empathy to be used.
+- Solving cool problems.
+- Building cool products.
+- Making cool AI.
 
 <p align="center">
   <i>Building technology that earns trust, solves real problems, and feels good to use.</i> ✦
