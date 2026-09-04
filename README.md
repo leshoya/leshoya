@@ -41,9 +41,9 @@ I enjoy the space where systems, people, and good product judgment meet. Right n
 
 ## Things I Care About
 
-- Solving cool problems.
-- Building cool products.
-- Making cool AI.
+- solving cool problems.
+- building cool products.
+- making cool AI.
 
 <p align="center">
   <i>Building technology that earns trust, solves real problems, and feels good to use.</i> ✦
