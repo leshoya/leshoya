@@ -24,7 +24,7 @@ I enjoy the space where systems, people, and good product judgment meet. Right n
 
 | 🧠 I care about | 🛠️ I work with | ✨ I bring |
 | :--- | :--- | :--- |
-| AI evaluation, developer tools, data systems | Python, C, Java, TypeScript, SQL, React, Spring Boot | Technical depth, product empathy, and a bias toward shipping |
+| AI evaluation, developer tools, data systems | Python, C, Java, TypeScript, SQL, React, Spring Boot | technical curiosity, good questions, and fun conversations |
 
 ## My Toolbox
 
