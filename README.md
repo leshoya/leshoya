@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build dependable AI systems, thoughtful developer tools, and data products that make complicated work feel simpler.
+  I like building interesting AI systems, thoughtful developer software, and data products that make complicated work easier!
 </p>
 
 <p align="center">
