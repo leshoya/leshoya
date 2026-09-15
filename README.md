@@ -47,5 +47,5 @@ I enjoy the space where systems, people, and good product judgment meet. Most re
 - making cool AI.
 
 <p align="center">
-  <i>Building technology that earns trust, solves real problems, and feels good to use.</i> ✦
+  <i>building technology that is reliable, solves interesting problems, and has good use!</i> ✦
 </p>
