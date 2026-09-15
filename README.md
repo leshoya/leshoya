@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sophia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="wave" /></h1>
 
 <p align="center">
-  <b>Software Engineer</b> · <b>AI Systems Builder</b> · <b>Duke Computer Science</b>
+  <b>Software Engineer</b> · <b>AI Systems Enthusiast</b> · <b>Duke Computer Science</b>
 </p>
 
 <p align="center">
