@@ -40,7 +40,7 @@ I enjoy the space where systems, people, and good product judgment meet. Most re
   <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-## Things I Care About
+## things i care about
 
 - solving cool problems.
 - building cool products.
