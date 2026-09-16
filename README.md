@@ -22,7 +22,7 @@
 
 I enjoy the space where systems, people, and good product judgment meet. Most recently, I built AI agent evaluation and agent-to-agent workflows at **MetLife**, with a particular interest in making AI measurable, reliable, and genuinely useful in everyday work. Feel free to reach out!
 
-| 🧠 I care about | 🛠️ I work with | ✨ I bring |
+| 🧠 i care about | 🛠️ i work with | ✨ i bring |
 | :--- | :--- | :--- |
 | AI evaluation, developer tools, data systems | Python, C, Java, TypeScript, SQL, React, Spring Boot | technical curiosity, good questions, and fun conversations |
 
