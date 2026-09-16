@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I like building interesting AI systems, thoughtful developer software, and data products that make complicated work easier!
+  I enjoy building interesting AI systems, thoughtful developer software, and data products that make complicated work easier!
 </p>
 
 <p align="center">
