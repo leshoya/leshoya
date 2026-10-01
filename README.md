@@ -46,6 +46,8 @@ I enjoy the space where systems, people, and good product judgment meet. Most re
 - building cool products.
 - making cool AI.
 
+check out my website! 
+https://leshoya.github.io/personalwebsite/
 <p align="center">
   <i>building technology that is reliable, solves interesting problems, and has good use!</i> ✦
 </p>
