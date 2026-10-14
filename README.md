@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer</b> · <b>AI Systems Enthusiast</b> · <b>Duke Computer Science</b>
-</p> ants
+</p> 
 
 <p align="center">
   I enjoy building interesting AI systems, thoughtful  software, and data products that make complicated work easier!
