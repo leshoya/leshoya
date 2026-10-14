@@ -42,9 +42,9 @@ I enjoy the space where systems, people, and good judgment meet. Most recently, 
 
 ## things i care about
 
-- solving cool problems.
-- building cool products.
-- making cool AI.
+- solving cool problems
+- building cool products
+- making cool AI
 
 check out my website! 
 https://leshoya.github.io/personalwebsite/
